@@ -1,7 +1,6 @@
 package com.dayone.controller;
 
 import com.dayone.model.Auth;
-import com.dayone.persist.entity.MemberEntity;
 import com.dayone.security.TokenProvider;
 import com.dayone.service.MemberService;
 import lombok.RequiredArgsConstructor;
